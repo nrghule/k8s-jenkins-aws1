@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: nrghule/jhooq-docker-demo:jhooq-docker-demo
+          image: 777688329011.dkr.ecr.ap-south-1.amazonaws.com/nrghule-dcocker-demo:latest
           ports:
             - containerPort: 8080
           env:
